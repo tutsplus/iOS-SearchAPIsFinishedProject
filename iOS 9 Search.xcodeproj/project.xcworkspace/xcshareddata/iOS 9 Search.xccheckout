@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E3DA276F-EA5F-4B11-B623-77EC557F650D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>75021232C7EF4B6449294B0A55F33C94E9DFABE1</key>
+		<string>https://github.com/davis503525/iOS-9-Search.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS 9 Search.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>75021232C7EF4B6449294B0A55F33C94E9DFABE1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/davis503525/iOS-9-Search.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>75021232C7EF4B6449294B0A55F33C94E9DFABE1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>75021232C7EF4B6449294B0A55F33C94E9DFABE1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS%209%20Search</string>
+		</dict>
+	</array>
+</dict>
+</plist>
